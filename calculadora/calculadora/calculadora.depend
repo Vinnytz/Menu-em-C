@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663168288 source:d:\uns app aleatorio\codeblocks\projetinho\calculadora\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

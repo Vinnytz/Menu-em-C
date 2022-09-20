@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1662824576 source:c:\users\ayra_\onedrive\Área de trabalho\programing\menusalatiel\menusalatiel\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1663683319 source:d:\uns app aleatorio\codeblocks\projetinho\menusalatiel\menusalatiel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
